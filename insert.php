@@ -8,7 +8,7 @@ $db = new DB();
 
 // Insert Values
 $sql_values = [
-	'first_name' => 'Jon',
+	'first_name' => 'Brad',
 	'email' => 'example@email.com',
 	'facial_hair' => 1
 ];
